@@ -2,13 +2,17 @@
 I built a complete Excel-based project that includes multiple dashboards and analytical tables. The workflow covered key stages such as data preparation, cleaning, transformation, and visual presentation to derive meaningful insights.
 
 📊 Retail Sales Analysis (Interactive Dashboard using MS Excel)
+
 🔹 Project Overview
+
 This project focuses on creating a detailed sales performance report for a retail business for the year 2022. The objective is to analyze customer behavior and identify growth opportunities for 2023 and 2024.
 
 🔹 Dataset Used
+
 [Download Dataset](Store%20Data%20Analysis.xlsx)
 
 🔹 Business Questions (KPIs)
+
 1.Compare total sales and order volume using a combined chart.
 
 2.Identify the month with the highest revenue and number of orders.
@@ -28,11 +32,14 @@ This project focuses on creating a detailed sales performance report for a retai
 9.Calculate the percentage of total orders that were successfully delivered.
 
 🔹 Dashboard View
+
 [View Dashboard](image.png)
 
 
 
 🔹 Workflow
+
+
 1.Reviewed the dataset for missing values, duplicates, and inconsistencies.
 
 2.Standardized data formats and corrected data types where necessary.
@@ -42,6 +49,7 @@ This project focuses on creating a detailed sales performance report for a retai
 4.Combined all visuals into a single dashboard and added slicers for interactivity.
 
 🔹 Key Findings
+
 1.Female customers contribute approximately 65% of total purchases.
 
 2.Maharashtra, Karnataka, and Uttar Pradesh are the top three revenue-generating states.
@@ -53,7 +61,9 @@ This project focuses on creating a detailed sales performance report for a retai
 5.Over 90% of orders were successfully delivered.
 
 🔹 Final Recommendation
+
 To increase revenue, marketing strategies should prioritize women aged 30–49 living in Maharashtra, Karnataka, and Uttar Pradesh. This segment shows high purchasing power and engagement. Targeted digital campaigns and personalized promotions can significantly improve sales outcomes.
 
 🔹 Tools Used
+
 Microsoft Excel (Pivot Tables, Charts, Slicers)
