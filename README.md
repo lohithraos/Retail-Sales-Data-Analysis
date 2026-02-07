@@ -6,6 +6,7 @@ I built a complete Excel-based project that includes multiple dashboards and ana
 This project focuses on creating a detailed sales performance report for a retail business for the year 2022. The objective is to analyze customer behavior and identify growth opportunities for 2023 and 2024.
 
 🔹 Dataset Used
+[Dataset](Store Data Analysis.xlsx)
 
 
 🔹 Business Questions (KPIs)
@@ -28,6 +29,7 @@ This project focuses on creating a detailed sales performance report for a retai
 9.Calculate the percentage of total orders that were successfully delivered.
 
 🔹 Dashboard View
+[View Dashboard](image.png)
 
 
 
